@@ -1,0 +1,25 @@
+header{
+    background-color: cornflowerblue;
+    color: white;
+    padding: 8px 0px;
+    text-align:right;
+    font-size: large;
+}
+li{
+    display: inline;
+    list-style: none;
+    padding: 0px 20px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+.regestration{
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+}
+.regestration h3{
+    color: mediumvioletred;
+}

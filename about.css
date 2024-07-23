@@ -1,0 +1,31 @@
+header{
+    background-color: cadetblue;
+    color: white;
+    padding: 8px 0px;
+    text-align:right;
+    font-size: large;
+}
+li{
+    display: inline;
+    list-style: none;
+    padding: 0px 20px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+footer{
+    background-color:cadetblue;
+    text-align: center;
+    padding: 8px 0px;
+    color: white;
+}
+.setter h1{
+    text-align: center;
+    font-weight: bolder;
+}
+.abc{
+    padding-top: 40px;
+    padding-bottom: 35px;
+    text-align: center;
+}

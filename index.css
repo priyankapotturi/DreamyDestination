@@ -1,0 +1,36 @@
+header{
+    background-color: cornflowerblue;
+    color: white;
+    padding: 8px 0px;
+    text-align:right;
+    font-size: large;
+}
+li{
+    display: inline;
+    list-style: none;
+    padding: 0px 20px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+footer{
+    background-color: cornflowerblue;
+    text-align: center;
+    padding: 8px 0px;
+    color: white;
+}
+section{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 8px 0px;
+    padding-top: 82;
+    padding-bottom: 82;
+}
+.abc{
+    text-align: left;
+    background-color:lightskyblue;
+    padding-bottom: 8px;
+    color:white;
+}
