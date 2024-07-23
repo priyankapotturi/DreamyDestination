@@ -1,0 +1,39 @@
+header{
+    background-color: lightslategrey;
+    color: white;
+    padding: 8px 0px;
+    text-align:right;
+    font-size: large;
+}
+li{
+    display: inline;
+    list-style: none;
+    padding: 0px 20px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+footer{
+    background-color: lightslategrey;
+    text-align: center;
+    padding: 8px 0px;
+    color: white;
+}
+.regform input{
+    font-size: 20px;
+    margin: 15px 0;
+    padding: 15px 10px;
+}
+.regform h3{
+    color: red;
+    font-weight: larger;
+}
+body{
+    text-align: center;
+}
+.regform button{
+    font-size: 18;
+    font-weight: bold;
+    padding: 10 15;
+}

@@ -1,0 +1,41 @@
+header{
+    background-color: lightseagreen;
+    color: white;
+    padding: 8px 0px;
+    text-align:right;
+    font-size: large;
+}
+li{
+    display: inline;
+    list-style: none;
+    padding: 0px 20px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+footer{
+    background-color: lightseagreen;
+    text-align: center;
+    padding: 8px 0px;
+    color: white;
+}
+.reg input{
+    font-size: 20px;
+    margin: 15px 0;
+    padding: 15px 10px;
+}
+.reg h2{
+    color: red;
+    font-weight: larger;
+
+}
+body{
+    text-align: center;
+}
+.abcd{
+    text-align: left;
+    background-color: darkblue;
+    padding-bottom: 8px;
+    color: wheat;
+}
